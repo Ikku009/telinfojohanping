@@ -1,6 +1,6 @@
 
 TG TO NUM BOT  —  SETUP GUIDE
-Created by @drazeforce
+Created by @Joh4n404
 ══════════════════════════════════════
 
 
@@ -47,10 +47,11 @@ Result output:
   Full profile, flags, phone in spoiler tag, API quota
 
 Inline mode:
-  @yourbotname drazeforce  (in any chat)
+  @yourbotname Joh4n404  (in any chat)
 
 Auto-restart:
   Use start_bot.bat on Windows — restarts on crash automatically
 
 Data:
+
   Stored in db.json (auto-created on first run)
