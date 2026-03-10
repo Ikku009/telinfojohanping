@@ -1,0 +1,41 @@
+{
+  "users": {
+    "5927721540": {
+      "userId": 5927721540,
+      "username": "Joh4n404",
+      "firstName": "\u2665\ufe0f",
+      "joinedAt": "2026-03-10T13:30:29.494147",
+      "totalLookups": 2,
+      "lastSeen": "2026-03-10T14:18:59.716376"
+    }
+  },
+  "lookups": [
+    {
+      "ts": "2026-03-10T14:08:37.993485",
+      "userId": 5927721540,
+      "username": "Joh4n404",
+      "firstName": "\u2665\ufe0f",
+      "query": "ashiqq",
+      "success": true,
+      "phone": "1675376246",
+      "country": "Bangladesh"
+    },
+    {
+      "ts": "2026-03-10T14:18:59.716389",
+      "userId": 5927721540,
+      "username": "Joh4n404",
+      "firstName": "\u2665\ufe0f",
+      "query": "Rozziiiiiiii",
+      "success": true,
+      "phone": "8921026651",
+      "country": "India"
+    }
+  ],
+  "adminSessions": [
+    {
+      "userId": 5927721540,
+      "ts": "2026-03-10T14:19:57.740072"
+    }
+  ],
+  "maintenance": false
+}
